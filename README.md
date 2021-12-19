@@ -1,8 +1,8 @@
 # Analytics portfolio 
 
 
-<h3> 3 project included: <h3>
+<h4> 3 project included: <h4>
 
-1. <i>Text Advebture Game<i>
+1. <p><i>Text Advebture Game<i><p>
 
-2. <i>Regression Model<i>
+2. <p><i>Regression Model<i><p>
