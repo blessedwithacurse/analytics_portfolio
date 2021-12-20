@@ -7,4 +7,4 @@
 
 2. <p><i>Regression Model<i><p>
 
-3. <p><i>CLI<i><p>
+3. <p><i>CLI(Made during my bachelors, but decided to include it since i have nothing else)<i><p>
